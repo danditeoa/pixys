@@ -7,7 +7,6 @@ import {faVideo, faDownload, faGamepad} from '@fortawesome/free-solid-svg-icons'
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'pixys';
   faVideo = faVideo;
   faDownload = faDownload;
   faGamepad = faGamepad;
